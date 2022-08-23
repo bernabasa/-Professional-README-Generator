@@ -3,22 +3,20 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "inquirer": "^6.5.2"
+        "inquirer": "^6.5.2"
     },
     "repository": {
-      "type": "git",
-      "url": "git+git@github.com:bernabasa/-Professional-README-Generator.git "
+        "type": "git",
+        "url": "git+git@github.com:bernabasa/-Professional-README-Generator.git "
     },
     "bugs": {
-      "url": "https://github.com/bernabasa/-Professional-README-Generator "
-     
-     
+        "url": "https://github.com/bernabasa/-Professional-README-Generator "
     },
     "homepage": "https://github.com/bernabasa/-Professional-README-Generator ",
     "description": ""
-  }
+}
